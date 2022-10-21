@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @arzu4u
-- 👀 I’m interested in Programming, Analyzing,Cybersecurity and data science
-- 💞️ I’m looking to collaborate on ...Opensource Project
-- 📫 How to reach  me?
+- Hi, I’m @arzu4u
+- I’m   IT Generalist with multiple skills and knowledge but master of none.
+- My interests is in Analysis,Research,some level of development and Geo-politics.
+- I am very passionate about OSINT,Cyber Intelligence  (Open Source Intelligence) and everything related to it.
+
+- How to reach  me?
 
 Send me a email at arzu4u2007@yahoo.co.in
 
