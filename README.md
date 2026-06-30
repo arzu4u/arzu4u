@@ -1,5 +1,6 @@
 # Hi, I'm Arzoo 👋
 IT Generalist | AI Agent Builder | OSINT Researcher
+
 I'm a systems thinker and AI developer passionate about building intelligent software that helps people understand, organize, and reason about information.
 
 My work focuses on designing AI agents, intelligence systems, automation tools, and cybersecurity applications. I enjoy solving complex problems by combining software engineering, knowledge management, and practical AI.
